@@ -67,7 +67,13 @@ ul {
     height: 90%;
   }
   #foto2{
-    width: 300px;
+    width: 600px;
+    height: 500px;
+    
+  }
+  #foto3 {
+    display:none;
+    width:50%;
   }
 
 
