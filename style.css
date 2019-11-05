@@ -55,6 +55,20 @@ ul {
   body{
     background-color: skyblue;
   }
+  #overprojecten{
+    width: 500px;
+    height: 270px;
+    border: 1px black;
+    display: inline-block;
+    margin-top: 80px;
+  }
+  #overprojecten{
+    width:50%;
+    height: 90%;
+  }
+  #foto2{
+    width: 300px;
+  }
 
 
 
