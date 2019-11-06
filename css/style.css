@@ -151,6 +151,9 @@ input[type=submit]:hover {
   height: 500px;
   display: none;
 }
+#midden2{
+  color: red;
+}
 
 
 
