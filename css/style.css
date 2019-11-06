@@ -115,6 +115,43 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+#foto2{
+  width: 600px;
+  height: 500px;
+}
+#foto4 {
+ width: 600px;
+ height: 500px;
+ display: none;
+}
+#foto5{
+  width: 600px;
+  height: 500px;
+  display: none;
+}
+.fotoss{
+  width:50%;
+  height:100%;
+}
+.fotosss{
+  width: 50%;
+  height: 100%;
+}
+#foto6{
+  width: 600px;
+  height: 500px;
+}
+#foto7{
+  width: 600px;
+  height: 500px;
+  display: none;
+}
+#foto8{
+  width: 600px;
+  height: 500px;
+  display: none;
+}
+
 
 
 
